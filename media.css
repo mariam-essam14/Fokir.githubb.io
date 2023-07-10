@@ -1,0 +1,137 @@
+
+/* Tablet land */
+@media screen and (max-width:979px) and (min-width:768px) {
+    
+    .about .image{
+        width: 50%;
+    }
+    .about-content{
+        width: 50%;
+    }
+    .Services .Service{
+        width: 50%;
+    }
+    .col{
+        width: 33.33%;
+    }
+    .session .session1{
+       width:  50%;
+    }
+    .item{
+        width: 50%;
+    }
+    .Contact-US .input input{
+        width: 50%;
+    }
+    .Contact-US .btn-input{
+        width: 50%;
+    }
+    .Contact-US .input .input1{
+        width: 50%;
+    }
+    .Contact-US .input textarea{
+        width: 50%;
+    }
+    .Contact-US .btn-input button{
+        width: 40%;
+    }
+}
+
+/* Large phone lang */
+@media screen and (max-width:767px) and (min-width:500px) {
+     .home-background .content  h4,h3{
+         font-size: 20px ;
+         font-weight: 300;
+    }
+    .home-background .content h1
+    {
+        font-size: 50px;
+    }
+    
+    .about .image{
+        border: none;
+        /* width: 100%; */
+    }
+    .about .image img{
+        width: 100%;
+    }
+    .about-content{
+        width: 100%;
+    }
+    .Services .Service{
+        width: 100%;
+    }
+    .col{
+        width: 100%;
+    }
+    .session .session1{
+        width:  100%;
+     }
+     .item{
+        width: 100%;
+    }
+    .Contact-US .input input{
+        width: 100%;
+    }
+    .Contact-US .btn-input{
+        width: 100%;
+    }
+    .Contact-US .input .input1{
+        width: 100%;
+    }
+    .Contact-US .input textarea{
+        width: 100%;
+    }
+    .Contact-US .btn-input button{
+        width: 40%;
+    }
+}
+
+/* Small Phone */
+@media screen and (max-width:499px) {
+    .home-background .content  , h3,h4{
+        font-size: 18px ;
+         font-weight: 100;
+   }
+   .home-background .content h1{
+    font-size: 30px;
+}
+   
+    .about .image{
+        border: none;
+       
+    }
+    .about .image img{
+        width: 100%;
+    }
+    .about-content{
+        width: 100%;
+    }
+    .Services .Service{
+        width: 100%;
+    }
+    .col{
+        width: 100%;
+    }
+    .session .session1{
+        width:  100%;
+     }
+     .item{
+        width: 100%;
+    }
+    .Contact-US .input input{
+        width: 100%;
+    }
+    .Contact-US .btn-input{
+        width: 100%;
+    }
+    .Contact-US .input .input1{
+        width: 100%;
+    }
+    .Contact-US .input textarea{
+        width: 100%;
+    }
+    .Contact-US .btn-input button{
+        width: 40%;
+    }
+}
